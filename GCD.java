@@ -137,14 +137,6 @@ public class GCD{
 		System.out.println("");
 		compareTimes();
 	}
-	/**The gcd methods with O(n) time complexity operate at mostly the same speed and with the same
-	 * number of iterations. gcd_3 has around half the iterations and takes about half the time, but 
-	 * also halves the number of possible values. gcd_4, however, which has time complexity O(log n), 
-	 * runs much faster and uses less iterations. For example, when number 1 equals 992415 and number 2
-	 * equals 549314, gcd_1 has 549312 iterations, while gcd_4 only has 17. gcd_4 is clearly much more
-	 * efficient. This shows that functions with time complexity O(log n) will generally be much better 
-	 * functions with time complexity O(n) or slower.
-	**/
 }
 	
 
