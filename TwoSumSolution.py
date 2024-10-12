@@ -1,3 +1,4 @@
+#leetcode easy difficulty problem, https://leetcode.com/problems/two-sum/description/
 def twoSum(nums, target):
     dict = {}
     for index, val in enumerate(nums):
