@@ -1,3 +1,4 @@
+#algo expert problem, https://www.algoexpert.io/questions/river-sizes
 matrix = [
     [1, 1, 1, 1, 1],
     [0, 0, 0, 0, 0],
