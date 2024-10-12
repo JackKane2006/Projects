@@ -7,7 +7,3 @@ def twoSum(nums, target):
             return [list(dict.values()).index(val), index]
         dict[index] = target - val
     return []
-
-array = [2, 7, 8, 9]
-target = 17
-print(twoSum(array, target))
